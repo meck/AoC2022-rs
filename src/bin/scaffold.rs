@@ -12,7 +12,7 @@ const MODULE_TEMPLATE: &str = r###"pub(crate) fn part_one(input: &str) -> Option
     None
 }
 
-pub(create) fn part_two(input: &str) -> Option<u32> {
+pub(crate) fn part_two(input: &str) -> Option<u32> {
     None
 }
 
